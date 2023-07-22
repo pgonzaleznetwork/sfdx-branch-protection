@@ -1,7 +1,7 @@
 /**
  * @description Demonstrates what a Service Layer object might look like
  * for teh Account object. Demonstrates the placement of shared code that
- * is specific to the Account Object, and contains code that is called
+ * is specific to the Account Object and contains code that is called
  * by the AccountTriggerHandler
  * @group Shared Code
  * @see AccountTriggerHandler
