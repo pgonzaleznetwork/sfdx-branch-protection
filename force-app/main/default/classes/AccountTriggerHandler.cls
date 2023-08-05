@@ -11,7 +11,7 @@ public with sharing class AccountTriggerHandler extends TriggerHandler {
     private Map<Id, Account> triggerMapOld;
 
     @TestVisible
-    private static Exception circuitBreaker;
+    private static Exception circuitBreaker;//new comment
 
     /**
      * @description Custom exception class
